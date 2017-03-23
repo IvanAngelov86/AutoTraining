@@ -1,0 +1,6 @@
+C:\Users\ivan.a\Desktop\Auto training\Automation\HW\Homework\07EmployeeData\bin\Debug\07EmployeeData.exe.config
+C:\Users\ivan.a\Desktop\Auto training\Automation\HW\Homework\07EmployeeData\bin\Debug\07EmployeeData.exe
+C:\Users\ivan.a\Desktop\Auto training\Automation\HW\Homework\07EmployeeData\bin\Debug\07EmployeeData.pdb
+C:\Users\ivan.a\Desktop\Auto training\Automation\HW\Homework\07EmployeeData\obj\Debug\07EmployeeData.csprojResolveAssemblyReference.cache
+C:\Users\ivan.a\Desktop\Auto training\Automation\HW\Homework\07EmployeeData\obj\Debug\07EmployeeData.exe
+C:\Users\ivan.a\Desktop\Auto training\Automation\HW\Homework\07EmployeeData\obj\Debug\07EmployeeData.pdb

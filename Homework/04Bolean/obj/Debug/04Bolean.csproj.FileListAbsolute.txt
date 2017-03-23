@@ -1,0 +1,5 @@
+C:\Users\ivan.a\Desktop\Auto training\Automation\HW\Homework\04Bolean\bin\Debug\04Bolean.exe.config
+C:\Users\ivan.a\Desktop\Auto training\Automation\HW\Homework\04Bolean\bin\Debug\04Bolean.exe
+C:\Users\ivan.a\Desktop\Auto training\Automation\HW\Homework\04Bolean\bin\Debug\04Bolean.pdb
+C:\Users\ivan.a\Desktop\Auto training\Automation\HW\Homework\04Bolean\obj\Debug\04Bolean.exe
+C:\Users\ivan.a\Desktop\Auto training\Automation\HW\Homework\04Bolean\obj\Debug\04Bolean.pdb

@@ -1,0 +1,6 @@
+C:\Users\ivan.a\Desktop\Auto training\Automation\HW\Homework\09BankInfo\bin\Debug\09BankInfo.exe.config
+C:\Users\ivan.a\Desktop\Auto training\Automation\HW\Homework\09BankInfo\bin\Debug\09BankInfo.exe
+C:\Users\ivan.a\Desktop\Auto training\Automation\HW\Homework\09BankInfo\bin\Debug\09BankInfo.pdb
+C:\Users\ivan.a\Desktop\Auto training\Automation\HW\Homework\09BankInfo\obj\Debug\09BankInfo.csprojResolveAssemblyReference.cache
+C:\Users\ivan.a\Desktop\Auto training\Automation\HW\Homework\09BankInfo\obj\Debug\09BankInfo.exe
+C:\Users\ivan.a\Desktop\Auto training\Automation\HW\Homework\09BankInfo\obj\Debug\09BankInfo.pdb

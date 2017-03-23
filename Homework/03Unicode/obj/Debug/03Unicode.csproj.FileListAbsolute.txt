@@ -1,0 +1,6 @@
+C:\Users\ivan.a\Desktop\Auto training\Automation\HW\Homework\03Unicode\bin\Debug\03Unicode.exe.config
+C:\Users\ivan.a\Desktop\Auto training\Automation\HW\Homework\03Unicode\bin\Debug\03Unicode.exe
+C:\Users\ivan.a\Desktop\Auto training\Automation\HW\Homework\03Unicode\bin\Debug\03Unicode.pdb
+C:\Users\ivan.a\Desktop\Auto training\Automation\HW\Homework\03Unicode\obj\Debug\03Unicode.csprojResolveAssemblyReference.cache
+C:\Users\ivan.a\Desktop\Auto training\Automation\HW\Homework\03Unicode\obj\Debug\03Unicode.exe
+C:\Users\ivan.a\Desktop\Auto training\Automation\HW\Homework\03Unicode\obj\Debug\03Unicode.pdb

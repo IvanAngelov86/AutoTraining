@@ -1,0 +1,6 @@
+C:\Users\ivan.a\Desktop\Auto training\Automation\HW\Homework\08ExchangeVariableValues\bin\Debug\08ExchangeVariableValues.exe.config
+C:\Users\ivan.a\Desktop\Auto training\Automation\HW\Homework\08ExchangeVariableValues\bin\Debug\08ExchangeVariableValues.exe
+C:\Users\ivan.a\Desktop\Auto training\Automation\HW\Homework\08ExchangeVariableValues\bin\Debug\08ExchangeVariableValues.pdb
+C:\Users\ivan.a\Desktop\Auto training\Automation\HW\Homework\08ExchangeVariableValues\obj\Debug\08ExchangeVariableValues.exe
+C:\Users\ivan.a\Desktop\Auto training\Automation\HW\Homework\08ExchangeVariableValues\obj\Debug\08ExchangeVariableValues.pdb
+C:\Users\ivan.a\Desktop\Auto training\Automation\HW\Homework\08ExchangeVariableValues\obj\Debug\08ExchangeVariableValues.csprojResolveAssemblyReference.cache

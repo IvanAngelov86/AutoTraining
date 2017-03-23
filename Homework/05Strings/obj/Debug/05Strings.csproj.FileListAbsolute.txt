@@ -1,0 +1,5 @@
+C:\Users\ivan.a\Desktop\Auto training\Automation\HW\Homework\05Strings\bin\Debug\05Strings.exe.config
+C:\Users\ivan.a\Desktop\Auto training\Automation\HW\Homework\05Strings\bin\Debug\05Strings.exe
+C:\Users\ivan.a\Desktop\Auto training\Automation\HW\Homework\05Strings\bin\Debug\05Strings.pdb
+C:\Users\ivan.a\Desktop\Auto training\Automation\HW\Homework\05Strings\obj\Debug\05Strings.exe
+C:\Users\ivan.a\Desktop\Auto training\Automation\HW\Homework\05Strings\obj\Debug\05Strings.pdb

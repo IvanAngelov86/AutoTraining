@@ -1,0 +1,6 @@
+C:\Users\ivan.a\Desktop\Auto training\Automation\HW\Homework\02FloatOrDouble\bin\Debug\02FloatOrDouble.exe.config
+C:\Users\ivan.a\Desktop\Auto training\Automation\HW\Homework\02FloatOrDouble\bin\Debug\02FloatOrDouble.exe
+C:\Users\ivan.a\Desktop\Auto training\Automation\HW\Homework\02FloatOrDouble\bin\Debug\02FloatOrDouble.pdb
+C:\Users\ivan.a\Desktop\Auto training\Automation\HW\Homework\02FloatOrDouble\obj\Debug\02FloatOrDouble.csprojResolveAssemblyReference.cache
+C:\Users\ivan.a\Desktop\Auto training\Automation\HW\Homework\02FloatOrDouble\obj\Debug\02FloatOrDouble.exe
+C:\Users\ivan.a\Desktop\Auto training\Automation\HW\Homework\02FloatOrDouble\obj\Debug\02FloatOrDouble.pdb

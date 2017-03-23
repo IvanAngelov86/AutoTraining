@@ -1,0 +1,3 @@
+C:\Users\ivan.a\Desktop\Auto training\Automation\HW\Homework\AgeCheck\bin\Debug\AgeCheck.exe.config
+C:\Users\ivan.a\Desktop\Auto training\Automation\HW\Homework\AgeCheck\obj\Debug\AgeCheck.exe
+C:\Users\ivan.a\Desktop\Auto training\Automation\HW\Homework\AgeCheck\obj\Debug\AgeCheck.pdb
