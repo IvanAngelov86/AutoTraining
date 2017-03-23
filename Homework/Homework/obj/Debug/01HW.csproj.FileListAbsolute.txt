@@ -1,0 +1,6 @@
+C:\Users\ivan.a\Desktop\Auto training\Automation\HW\Homework\Homework\bin\Debug\Homework.exe.config
+C:\Users\ivan.a\Desktop\Auto training\Automation\HW\Homework\Homework\bin\Debug\Homework.exe
+C:\Users\ivan.a\Desktop\Auto training\Automation\HW\Homework\Homework\bin\Debug\Homework.pdb
+C:\Users\ivan.a\Desktop\Auto training\Automation\HW\Homework\Homework\obj\Debug\01HW.csprojResolveAssemblyReference.cache
+C:\Users\ivan.a\Desktop\Auto training\Automation\HW\Homework\Homework\obj\Debug\Homework.exe
+C:\Users\ivan.a\Desktop\Auto training\Automation\HW\Homework\Homework\obj\Debug\Homework.pdb

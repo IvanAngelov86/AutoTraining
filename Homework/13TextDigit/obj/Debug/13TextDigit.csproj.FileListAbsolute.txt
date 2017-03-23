@@ -1,0 +1,6 @@
+C:\Users\ivan.a\Desktop\Auto training\Automation\HW\Homework\13TextDigit\bin\Debug\13TextDigit.exe.config
+C:\Users\ivan.a\Desktop\Auto training\Automation\HW\Homework\13TextDigit\bin\Debug\13TextDigit.exe
+C:\Users\ivan.a\Desktop\Auto training\Automation\HW\Homework\13TextDigit\bin\Debug\13TextDigit.pdb
+C:\Users\ivan.a\Desktop\Auto training\Automation\HW\Homework\13TextDigit\obj\Debug\13TextDigit.csprojResolveAssemblyReference.cache
+C:\Users\ivan.a\Desktop\Auto training\Automation\HW\Homework\13TextDigit\obj\Debug\13TextDigit.exe
+C:\Users\ivan.a\Desktop\Auto training\Automation\HW\Homework\13TextDigit\obj\Debug\13TextDigit.pdb

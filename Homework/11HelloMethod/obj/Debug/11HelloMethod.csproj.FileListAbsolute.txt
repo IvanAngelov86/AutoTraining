@@ -1,0 +1,5 @@
+C:\Users\ivan.a\Desktop\Auto training\Automation\HW\Homework\11HelloMethod\bin\Debug\11HelloMethod.exe.config
+C:\Users\ivan.a\Desktop\Auto training\Automation\HW\Homework\11HelloMethod\bin\Debug\11HelloMethod.exe
+C:\Users\ivan.a\Desktop\Auto training\Automation\HW\Homework\11HelloMethod\bin\Debug\11HelloMethod.pdb
+C:\Users\ivan.a\Desktop\Auto training\Automation\HW\Homework\11HelloMethod\obj\Debug\11HelloMethod.exe
+C:\Users\ivan.a\Desktop\Auto training\Automation\HW\Homework\11HelloMethod\obj\Debug\11HelloMethod.pdb

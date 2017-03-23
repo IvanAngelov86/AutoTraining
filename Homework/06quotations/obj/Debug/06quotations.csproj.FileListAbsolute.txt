@@ -1,0 +1,6 @@
+C:\Users\ivan.a\Desktop\Auto training\Automation\HW\Homework\06quotations\bin\Debug\06quotations.exe.config
+C:\Users\ivan.a\Desktop\Auto training\Automation\HW\Homework\06quotations\obj\Debug\06quotations.csprojResolveAssemblyReference.cache
+C:\Users\ivan.a\Desktop\Auto training\Automation\HW\Homework\06quotations\bin\Debug\06quotations.exe
+C:\Users\ivan.a\Desktop\Auto training\Automation\HW\Homework\06quotations\bin\Debug\06quotations.pdb
+C:\Users\ivan.a\Desktop\Auto training\Automation\HW\Homework\06quotations\obj\Debug\06quotations.exe
+C:\Users\ivan.a\Desktop\Auto training\Automation\HW\Homework\06quotations\obj\Debug\06quotations.pdb

@@ -1,0 +1,6 @@
+C:\Users\ivan.a\Desktop\Auto training\Automation\HW\Homework\GetLargestNumber\bin\Debug\GetLargestNumber.exe.config
+C:\Users\ivan.a\Desktop\Auto training\Automation\HW\Homework\GetLargestNumber\bin\Debug\GetLargestNumber.exe
+C:\Users\ivan.a\Desktop\Auto training\Automation\HW\Homework\GetLargestNumber\bin\Debug\GetLargestNumber.pdb
+C:\Users\ivan.a\Desktop\Auto training\Automation\HW\Homework\GetLargestNumber\obj\Debug\12GetLargestNumber.csprojResolveAssemblyReference.cache
+C:\Users\ivan.a\Desktop\Auto training\Automation\HW\Homework\GetLargestNumber\obj\Debug\GetLargestNumber.exe
+C:\Users\ivan.a\Desktop\Auto training\Automation\HW\Homework\GetLargestNumber\obj\Debug\GetLargestNumber.pdb
